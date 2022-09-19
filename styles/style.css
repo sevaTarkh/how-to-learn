@@ -104,12 +104,6 @@
   font-size: 24px;
   font-weight: 600;
 }
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
 .digits{
   position: relative;
   margin:0;
@@ -179,7 +173,7 @@ f{
   font-size: 36px;
   font-weight: normal;
   line-height: 51px;
-  margin-top:70px 
+  margin-top:70px; 
 }
 .feynman__link{
   position: absolute;
@@ -252,7 +246,7 @@ f{
   right:-210px;
 }
 .footer{
-  background-color:#1f1f1f ;
+  background-color:#1f1f1f;
   color: white;
   position: relative;
   margin:0;
